@@ -10,6 +10,7 @@
 *  B.A. in Computer Science				
 *  Minor in Economics
 *  Expected graduation Spring 2020
+─────────────────────────────────────────────── 
 
 ### Experience
 ────────────────────────────────────────────── 
@@ -17,9 +18,10 @@
 * Server maintenance and desktop support.  				
 * Developed PowerShell scripts to automate laborious tasks.
 * Initialized and maintained a Red Hat server.
-* Contributed to the subtraction of substantial man hours.		
+* Contributed to the subtraction of substantial man hours.	
+─────────────────────────────────────────────── 
 
-#### Projects
+### Projects
 ─────────────────────────────────────────────── 
 ##### Excel Link Grinder [May 2018]			
 * Designed and built a program to delete user-decided links from an excel document.
@@ -32,7 +34,7 @@
 * https://github.com/ChaseD13/TwilioMessenger-Desktop
 ────────────────────────────────────────────── 
 
-#### Skills
+### Skills
 ─────────────────────────────────────────────── 
 ```
 •	Proficient:
@@ -63,9 +65,7 @@
 
 ### Activities
 ─────────────────────────────────────────────── 
-
 ##### CU Overwatch Team
 * Teammate ‘17 - present
-
 ─────────────────────────────────────────────── 
 
