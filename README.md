@@ -6,28 +6,35 @@
 
 ### Education
 ───────────────────────────────────────────────
-University of Colorado Boulder   	● B.A. in Computer Science 
-					● Minor in Economics
-					● Expected graduation Spring 2020
+*  University of Colorado Boulder  	
+*  B.A. in Computer Science				
+*  Minor in Economics
+*  Expected graduation Spring 2020
 
 ### Experience
 ────────────────────────────────────────────── 
-Ventura County Government		● Server maintenance and desktop support.  
-I.T. intern				● Developed PowerShell scripts to automate laborious tasks.
-					● Initialized and maintained a Red Hat server.
-May 2018 - Aug. 2018			● Contributed to the subtraction of substantial man hours.
+#### Ventura County Government - I.T. Intern [May 2018 - Aug. 2018]		
+* Server maintenance and desktop support.  				
+* Developed PowerShell scripts to automate laborious tasks.
+* Initialized and maintained a Red Hat server.
+* Contributed to the subtraction of substantial man hours.		
 
 #### Projects
 ─────────────────────────────────────────────── 
-Excel Link Grinder			● Designed and built a program to delete user-decided links from an excel document.
-					● Written using PowerShell. 
-May 2018				● Created to reduce man hours spent manually deleting every broken link from an 					  overwhelming amount of accounting documents.
-Twilio Automated Messenger		● Developed a script to run at the end of the work day. It verifies with the server if 						 my user is logged into any computer. If so, the script sends a randomly assigned 					    message to select people.  
-June 2018				● Written using PowerShell and utilizes Twilio.  
-					  https://github.com/ChaseD13/TwilioMessenger-Desktop
+##### Excel Link Grinder [May 2018]			
+* Designed and built a program to delete user-decided links from an excel document.
+* **Created to reduce man hours spent manually deleting every broken external link from an overwhelming amount of accounting execel documents.**
+* Written using PowerShell. 
+
+##### Twilio Automated Messenger [June 2018]		
+* **Developed a script to run at the end of the work day. It verifies with the server if my user is logged into any computer. If so, the script sends a randomly assigned message to select people.** 
+* Written using PowerShell and utilizes the Twilio API.  
+* https://github.com/ChaseD13/TwilioMessenger-Desktop
 ────────────────────────────────────────────── 
 
-Skills
+#### Skills
+─────────────────────────────────────────────── 
+```
 •	Proficient:
 	o	C++
 	o	Python
@@ -51,8 +58,14 @@ Skills
 	o	Collaborative
 	o	Idealistic
 
+```
+─────────────────────────────────────────────── 
 
 ### Activities
-CU Overwatch Team
-Teammate ‘17 - present
+─────────────────────────────────────────────── 
+
+##### CU Overwatch Team
+* Teammate ‘17 - present
+
+─────────────────────────────────────────────── 
 
