@@ -10,7 +10,6 @@
 *  B.A. in Computer Science				
 *  Minor in Economics
 *  Expected graduation Spring 2020
-─────────────────────────────────────────────── 
 
 ### Experience
 ────────────────────────────────────────────── 
@@ -18,8 +17,7 @@
 * Server maintenance and desktop support.  				
 * Developed PowerShell scripts to automate laborious tasks.
 * Initialized and maintained a Red Hat server.
-* Contributed to the subtraction of substantial man hours.	
-─────────────────────────────────────────────── 
+* Contributed to the subtraction of substantial man hours.
 
 ### Projects
 ─────────────────────────────────────────────── 
@@ -32,7 +30,6 @@
 * **Developed a script to run at the end of the work day. It verifies with the server if my user is logged into any computer. If so, the script sends a randomly assigned message to select people.** 
 * Written using PowerShell and utilizes the Twilio API.  
 * https://github.com/ChaseD13/TwilioMessenger-Desktop
-────────────────────────────────────────────── 
 
 ### Skills
 ─────────────────────────────────────────────── 
@@ -61,11 +58,9 @@
 	o	Idealistic
 
 ```
-─────────────────────────────────────────────── 
 
 ### Activities
 ─────────────────────────────────────────────── 
 ##### CU Overwatch Team
 * Teammate ‘17 - present
-─────────────────────────────────────────────── 
 
