@@ -21,6 +21,13 @@
 
 ### Projects
 ─────────────────────────────────────────────── 
+##### Scrum Master Dating Site [December 2018]			
+* Worked in an agile environment with 4 other collegues to devolp a dating web app for scrum masters.
+* **Created to test my understanding of full stack development and to introduce me to an agile work environment**
+* Weekly scrum meeting helped keep us on track, I logged each of our meetings to keep track of what had been acomplished and what still needed to get done.
+* Written using HTML, NodeJS, and postgreSQL
+* https://github.com/Yahoooligans
+
 ##### Excel Link Grinder [May 2018]			
 * Designed and built a program to delete user-decided links from an excel document.
 * **Created to reduce man hours spent manually deleting every broken external link from an overwhelming amount of accounting execel documents.**
