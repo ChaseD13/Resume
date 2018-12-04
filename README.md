@@ -45,13 +45,13 @@
 	o	C++
 	o	Python
 	o	Linux Systems 
+	
 •	Familiar:
-	o	Software- Development
-	o	JavaScript/Java
+	o	Software development
+	o	JavaScript
 	o	SQL
 	o	HTML
-	o	Red Hat
-
+	o	NodeJS
 
 •	Tools:
 	o	Git
