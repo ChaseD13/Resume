@@ -1,7 +1,7 @@
 # Chase Dudas
 
 ### [Email](chasedudas13@gmail.com)
-### github.com/ChaseD13 
+### [Git](https://github.com/ChaseD13)
 ### [LinkedIn](https://www.linkedin.com/in/chasedudas/)
 
 ## Education
