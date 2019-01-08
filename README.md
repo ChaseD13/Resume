@@ -4,14 +4,14 @@
 ## github.com/ChaseD13 
 ## (805) 390-0337 
 
-### Education
+## Education
 ───────────────────────────────────────────────
 *  University of Colorado Boulder  	
 *  B.A. in Computer Science				
 *  Minor in Economics
 *  Expected graduation Spring 2020
 
-### Experience
+## Experience
 ────────────────────────────────────────────── 
 #### Ventura County Government - I.T. Intern [May 2018 - Aug. 2018]		
 * Server maintenance and desktop support.  				
@@ -19,7 +19,7 @@
 * Initialized and maintained a Red Hat server.
 * Contributed to the subtraction of substantial man hours.
 
-### Projects
+## Projects
 ─────────────────────────────────────────────── 
 ##### Scrum Master Dating Site [December 2018]			
 * Worked in an agile environment with 4 other collegues to devolp a dating web app for scrum masters.
@@ -38,7 +38,7 @@
 * Written using PowerShell and utilizes the Twilio API.  
 * https://github.com/ChaseD13/TwilioMessenger-Desktop
 
-### Skills
+## Skills
 ─────────────────────────────────────────────── 
 ```
 •	Proficient:
@@ -66,7 +66,7 @@
 
 ```
 
-### Activities
+## Activities
 ─────────────────────────────────────────────── 
 ##### CU Overwatch Team
 * Teammate ‘17 - present
